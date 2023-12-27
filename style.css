@@ -1,0 +1,119 @@
+
+.top-div{
+   background-image: url("https://3.imimg.com/data3/DK/UP/MY-14578281/air-train-bus-ticket-booking.jpg");
+    background-size: cover;
+    height: 300px;
+}
+.top-div h1{
+    font-weight: bold;
+    letter-spacing: 7px;
+    padding:20px;
+     background-color:rgba(18,17,17,0.7);
+    height: 300px;
+    color: white;
+    text-align: center;
+}
+.top-div h1 p{
+    background-color: rgba(22, 109, 222,0.8);
+    margin: 50px 50px;
+    margin-left: 300px;
+    margin-right:300px;
+    padding: 10px;
+    border-radius: 15px;
+}
+.top-div h1 p:hover{
+    background-color: blue;
+}
+
+.offers{
+    background-color: whitesmoke;
+    text-align: center;
+    font-family:fantasy;
+    font-size: 100px;
+    padding: 10px;
+    margin-left: 250px;
+    margin-right: 250px;
+    border-radius: 25%;
+}
+.section1{
+     margin-left: 50px;
+    margin-right: 50px;
+    background-color:pink;
+    border-radius:15px;
+    display:flex;
+    height: 200px;
+    width: auto;
+    box-shadow: 0 0 10px pink;
+    padding: 10px 25px;
+    align-items: center;
+    font-family: sans-serif;
+      color: white;
+    font-size: 70px;
+}
+.section,.text{
+    margin-left: 7px;
+    padding: 5px 65px;
+    background-color: lightgoldenrodyellow;
+    border-radius: 20px;
+    color: darkred;
+    font-style:initial;
+     box-shadow: 2px 2px 8px white;
+}
+.section,.text:hover{
+    background-color: white;
+}
+ .moreoffers{
+    box-shadow: 0 10px 10px whitesmoke;
+    display:flex;
+}
+.container img{
+    margin-top: 20px;
+    width:600px;
+    height: 250px;
+    border-radius:10px;
+}
+.content{
+    width: 600px;
+    height:120px;
+    background-color:white;
+    box-shadow: 0 0 10px green;
+    color:rgba(43, 173, 95);
+    border-radius:20px;
+    padding: 10px 10px;
+    
+}
+.wintersale{
+     width: 600px;
+    height:120px;
+    box-shadow: 0 0 10px red;
+    background-color:white;
+    color: rgba(212, 13, 43);
+    border-radius:20px;
+    padding: 10px 10px;
+}
+.headfooter{
+    display: flex;
+}
+.headfooter .footer2{
+    padding: 0 270px;
+}
+.headfooter h3{
+    font-size: 40px;
+}
+.headfooter p{
+    color: blueviolet;
+    font-size: 18px;
+}
+.followus{
+    padding: 5px;
+    background: black;
+    text-align: center;
+    color: white;
+}
+.followus .icons a{
+    padding: 0 10px;
+}
+.copy p{
+    background: cadetblue;
+    text-align: center;
+}

@@ -1,0 +1,28 @@
+body{
+    background-image: url("https://www.autosworldindia.in/wp-content/uploads/2023/06/NueGo-Bus-Review-Price-in-India-Bus-routes-and-more-2.jpg");  
+   background-size: cover;
+}
+.first{
+    background-color:rgba(29, 196, 74,0.5);
+    width: 500px;
+    height: 350px;
+    color: white;
+    padding: 15px;
+    margin: 100px auto;
+}
+.first h2{
+    font-size: 30px;
+    text-align: center;
+}
+.form-control:hover{
+    background: skyblue;
+}
+.btwn{
+    background: skyblue;
+    margin: 10px 170px;
+    border-radius: 15px;
+    padding: 5px;
+}
+.btwn:hover{
+    background: deepskyblue;
+}

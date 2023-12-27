@@ -1,0 +1,58 @@
+body{
+    background-image: url("https://images.unsplash.com/photo-1610642372677-bcddb69f3531?q=80&w=1000&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8YWlybGluZSUyMHRpY2tldHxlbnwwfHwwfHx8MA%3D%3D");  
+   background-size: cover;
+}
+.first{
+    background-color:rgba(3, 211, 252,0.5);
+    width: 500px;
+    height: 350px;
+    color: white;
+    padding: 15px;
+    margin: 100px auto;
+}
+.first h2{
+    font-size: 30px;
+    text-align: center;
+}
+.form-control:hover{
+    background: skyblue;
+}
+.btwn{
+    background: skyblue;
+    margin: 10px 170px;
+    border-radius: 15px;
+    padding: 5px;
+}
+.btwn:hover{
+    background: deepskyblue;
+}
+.offer{
+    margin-top:inherit;
+    background: maroon;
+    height: 200px;
+    width: 800px;
+    margin-bottom: 40px;
+    padding: 15px;
+    border-radius:15px;
+    align-content: center;
+    margin-left: 230px;
+    
+}
+.offer h1{
+    font-weight: bold;
+    letter-spacing: 7px;
+    color: white;
+}
+.border{
+    border-style: dotted;
+    color: white;
+    padding: 10px;
+    text-align: center;
+    margin-top: 27px;
+}
+.offer h4{
+    color: bisque;
+}
+.offer .border h2{
+
+}
